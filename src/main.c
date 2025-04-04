@@ -1,3 +1,4 @@
+
 #define LINKED_LIST_IMPLEMENTATION
 #include "linkedlist.h"
 #include <stdio.h>
